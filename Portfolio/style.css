@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 38px;
+    text-align: center;
+    background-color: rgba(86, 74, 255, 0.158);
+    color: #000000;
+}
+section{
+    min-height: 800px;
+    background: url('fon.jpg') no-repeat;
+    background-size: cover;
+}
+.myProjects{
+    margin-top: 30px;
+}
+.myProjects a{
+    color: rgb(255, 255, 255);
+}
